@@ -50,7 +50,6 @@ Follow the steps in the notebook to:
 
 ## Project Structure
 - `Apple stock.ipynb`: Main notebook for analysis.
-- `data/`: Directory to store the dataset (not included; add your data here).
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
