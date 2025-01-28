@@ -1,17 +1,7 @@
 # Apple-stock
 About Dataset
 Context
-Apple Inc. is an American hardware and software developer and technology company that develops and sells computers, smartphones and consumer electronics as well as operating systems and application software. Apple also operates internet sales portals for music, films and software.
-
-Market capitalization of Apple (AAPL)
-
-Market cap: $3.681 Trillion USD
-
-As of January 2025 Apple has a market cap of $3.681 Trillion USD. This makes Apple the world's most valuable company by market cap according to our data. The market capitalization, commonly called market cap, is the total market value of a publicly traded company's outstanding shares and is commonly used to measure how much a company is worth.
-
-Revenue for Apple (AAPL)
-
-Revenue in 2024 (TTM): $391.03 Billion USD
+A
 
 According to Apple's latest financial reports the company's current revenue (TTM ) is $391.03 Billion USD. In 2023 the company made a revenue of $385.70 Billion USD a decrease over the revenue in the year 2022 that were of $387.53 Billion USD. The revenue is the total amount of income that a company generates by the sale of goods or services. Unlike with the earnings no expenses are subtracted.
 
