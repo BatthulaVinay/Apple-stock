@@ -1,23 +1,60 @@
 # Apple-stock
-About Dataset
-Context
-A
+# Apple Stock Analysis
 
-According to Apple's latest financial reports the company's current revenue (TTM ) is $391.03 Billion USD. In 2023 the company made a revenue of $385.70 Billion USD a decrease over the revenue in the year 2022 that were of $387.53 Billion USD. The revenue is the total amount of income that a company generates by the sale of goods or services. Unlike with the earnings no expenses are subtracted.
+This repository contains a Jupyter Notebook for Exploratory Data Analysis (EDA) on Apple stock data. The analysis leverages various Python libraries for data manipulation, visualization, and machine learning.
 
-Content
-Geography: USA
+## Features
+- Comprehensive data exploration and visualization.
+- Insights into stock trends and patterns.
+- Application of machine learning models for predictive analysis.
 
-Time period: December 1980- January 2025
+## Getting Started
 
-Unit of analysis: Apple Stock Data 2024
+### Prerequisites
+Ensure you have Python 3.8 or later installed. The required libraries are:
 
-Variables
-Variable	Description
-date	date
-open	The price at market open.
-high	The highest price for that day.
-low	The lowest price for that day.
-close	The price at market close, adjusted for splits.
-adj_close	The closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards.
-volume	The number of shares traded on that day.
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `xgboost`
+- `sklearn`
+- `warnings`
+
+You can install these dependencies with the following command:
+
+```bash
+pip install numpy pandas matplotlib seaborn xgboost scikit-learn
+```
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/apple-stock-analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd apple-stock-analysis
+   ```
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook "Apple stock.ipynb"
+   ```
+
+## Usage
+Follow the steps in the notebook to:
+1. Load and preprocess the data.
+2. Visualize key trends using Matplotlib and Seaborn.
+3. Apply machine learning models like SVM, Random Forest, and XGBoost.
+4. Evaluate model performance using metrics provided by `sklearn`.
+
+## Project Structure
+- `Apple stock.ipynb`: Main notebook for analysis.
+- `data/`: Directory to store the dataset (not included; add your data here).
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details
+
