@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook for Exploratory Data Analysis (EDA) 
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Python 3.8 or later installed. The required libraries are:
+Could you make sure you have installed Python 3.8 or later? The required libraries are:
 
 - `numpy`
 - `pandas`
@@ -38,7 +38,7 @@ pip install numpy pandas matplotlib seaborn xgboost scikit-learn
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook "Apple stock.ipynb"
+   Jupiter notebook "Apple stock.ipynb"
    ```
 
 ## Usage
