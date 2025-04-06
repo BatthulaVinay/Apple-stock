@@ -18,7 +18,6 @@ Could you make sure you have installed Python 3.8 or later? The required librari
 - `seaborn`
 - `xgboost`
 - `sklearn`
-- `warnings`
 
 You can install these dependencies with the following command:
 
