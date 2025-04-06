@@ -1,4 +1,3 @@
-# Apple-stock
 # Apple Stock Analysis
 
 This repository contains a Jupyter Notebook for Exploratory Data Analysis (EDA) on Apple stock data. The analysis leverages various Python libraries for data manipulation, visualization, and machine learning.
